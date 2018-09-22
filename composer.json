@@ -1,0 +1,23 @@
+{
+  "name": "powerkernel/yii-product",
+  "description": "Product and Category Management
+  "type": "yii-module",
+  "homepage": "http://groovyweb.firm.in",
+  "keywords": [
+    "yii",
+    "product
+    "api"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Sagar ",
+      "email": "sagarpatel8153@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "powerkernel\\yiiproduct\\": "src"
+    }
+  }
+}
